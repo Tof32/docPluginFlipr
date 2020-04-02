@@ -28,5 +28,14 @@ Définissez le nom que vous voulez donner à votre Flipr, choisissez à quel obj
 Voter objet est prêt !
 
 ## Utilisation
-A compléter
+Lors de la sauvegarde de l'objet Flipr, une première lecture de ces infos doit avoir lieu. Ensuite les relevés sont effectués toutes les heures.
+
+Le plugin n'inclut pas de widget spécifique, toutes les valeurs relevées nes sont pas affichées et/ou historisées par défaut, vous pouvez utilisez le panneau **Commandes** de l'objet Flipr pour modifier les réglages.
+
+Les valeurs relevées sont les suivantes :
+
+| Nom | Description | Infos complémentaires, exemple de valeurs |
+| ----------- | ----------- | ----------- |
+| Conductivité | Niveau de conductivité de l'eau | Pour les piscines au sel (medium, high, low) |
+| Désinfectant Déviation | tendance de l'évolution du traitement | Par rapport aux précédentes mesures (-0,1) |
 

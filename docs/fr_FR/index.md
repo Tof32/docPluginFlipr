@@ -38,7 +38,7 @@ Les valeurs relevées sont les suivantes (les exemples sont des valeurs observé
 | Nom | Description | Infos complémentaires, exemple de valeurs |
 | ----------- | ----------- | ----------- |
 | Conductivité | Niveau de conductivité de l'eau | Pour les piscines au sel *(medium, high, low)* |
-| Désinfectant Déviation | Tendance de l'évolution du traitement | Par rapport à la valeur idéale [calcul][1] *(-0,1)* |
+| Désinfectant Déviation | Tendance de l'évolution du traitement | Par rapport à la valeur idéale[^1] *(-0,1)* |
 | Désinfectant Niveau | Niveau de désinfectant du bassin | Ce qui s'affiche dans l'appli *(Bon, Parfait, ...)* |
 | Désinfectant Niveau Déviation | Niveau de la tendance d'évolution du traitement | Non utilisé selon la doc de l'API *(medium, high, low)* |
 | Evolution batterie | Niveau de la batterie | Valeur pas très précise il me semble, passé de 1 à 0.5 chez moi... *(1, 0.5)* |
@@ -50,5 +50,5 @@ Les valeurs relevées sont les suivantes (les exemples sont des valeurs observé
 | Potentiel Redox | Valeur du Redox | Lecture de la sonde ORP *(572 mV, 730 mV, ...)* |
 | Température | Température | Température du bassin en °C *(14.25 °C, 28.10 °C, ...)* |
 
->[1]Déviation en % (1 = 100%) par rapport à la valeur de référence (valeur idéale).
+>[^1]:Déviation en % (1 = 100%) par rapport à la valeur de référence (valeur idéale).
 >1,0 étant la valeur max, et -1 la valeur min, au delà desquelles on considère qu’il y a un problème.

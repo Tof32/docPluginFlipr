@@ -50,5 +50,4 @@ Les valeurs relevées sont les suivantes (les exemples sont des valeurs observé
 | Potentiel Redox | Valeur du Redox | Lecture de la sonde ORP *(572 mV, 730 mV, ...)* |
 | Température | Température | Température du bassin en °C *(14.25 °C, 28.10 °C, ...)* |
 
->[^1]:Déviation en % (1 = 100%) par rapport à la valeur de référence (valeur idéale).
->1,0 étant la valeur max, et -1 la valeur min, au delà desquelles on considère qu’il y a un problème.
+[^1]:Déviation en % (1 = 100%) par rapport à la valeur de référence (valeur idéale). 1,0 étant la valeur max, et -1 la valeur min, au delà desquelles on considère qu’il y a un problème.

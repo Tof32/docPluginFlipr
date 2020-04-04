@@ -12,6 +12,7 @@ Pour configurer le plugin il vous faudra :
 - le mot de passe de votre compte goflipr.com
 
 Pour l'identifiant du Flipr, vous pouvez le trouver dans le menu de l'application en haut à gauche :
+
 ![Identifiant du Flipr](./idflipr.png)
 
 ## Installation

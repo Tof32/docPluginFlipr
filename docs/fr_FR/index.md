@@ -45,7 +45,7 @@ Les valeurs relevées sont les suivantes (les exemples sont des valeurs observé
 | Index UV | Valeur UV mesurée | Index UV mesuré au niveau du Flipr *(0, 7, ...)* |
 | PH Niveau | Niveau du PH dans le bassin | Ce qui s'affiche dans l'appli *(Bon, Parfait, ...)* |
 | PH Niveau Déviation | Niveau de la tendance d'évolution du PH | Non utilisé selon la doc de l'API *(medium, high, mediumlow)* |
-| PH Déviation | Tendance d'évolution du PH | Par rapport à la valeur idéale [calcul][1] *(-0,71)* |
+| PH Déviation | Tendance d'évolution du PH | Par rapport à la valeur idéale [^1] *(-0,71)* |
 | PH Valeur | Valeur du PH | Lecture du PH par la sonde *(7.10, 6.92, ...)* |
 | Potentiel Redox | Valeur du Redox | Lecture de la sonde ORP *(572 mV, 730 mV, ...)* |
 | Température | Température | Température du bassin en °C *(14.25 °C, 28.10 °C, ...)* |

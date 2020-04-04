@@ -30,12 +30,21 @@ Voter objet est prêt !
 ## Utilisation
 Lors de la sauvegarde de l'objet Flipr, une première lecture de ces infos doit avoir lieu. Ensuite les relevés sont effectués toutes les heures.
 
-Le plugin n'inclut pas de widget spécifique, toutes les valeurs relevées nes sont pas affichées et/ou historisées par défaut, vous pouvez utilisez le panneau **Commandes** de l'objet Flipr pour modifier les réglages.
+Le plugin n'inclut pas de widget spécifique, toutes les valeurs relevées ne sont pas affichées et/ou historisées par défaut, vous pouvez utilisez le panneau **Commandes** de l'objet Flipr pour modifier les réglages.
 
-Les valeurs relevées sont les suivantes :
+Les valeurs relevées sont les suivantes (les exemples sont des valeurs observées chez moi):
 
 | Nom | Description | Infos complémentaires, exemple de valeurs |
 | ----------- | ----------- | ----------- |
-| Conductivité | Niveau de conductivité de l'eau | Pour les piscines au sel (medium, high, low) |
-| Désinfectant Déviation | tendance de l'évolution du traitement | Par rapport aux précédentes mesures (-0,1) |
-
+| Conductivité | Niveau de conductivité de l'eau | Pour les piscines au sel *(medium, high, low)* |
+| Désinfectant Déviation | Tendance de l'évolution du traitement | Par rapport aux précédentes mesures *(-0,1)* |
+| Désinfectant Niveau | Niveau de désinfectant du bassin | Ce qui s'affiche dans l'appli *(Bon, Parfait, ...)* |
+| Désinfectant Niveau Déviation | Niveau de la tendance d'évolution du traitement | Par rapport aux précédentes mesures *(medium, high, low)* |
+| Evolution batterie | Niveau général de batterie | Valeur pas très précise il me semble, passé de 1 à 0.5 chez moi... *(1, 0.5)* |
+| Index UV | Valeur UV mesurée | Index UV mesuré au niveau du Flipr *(0, 7, ...)* |
+| PH Niveau | Niveau du PH dans le bassin | Ce qui s'affiche dans l'appli *(Bon, Parfait, ...)* |
+| PH Niveau Déviation | Niveau de la tendance d'évolution du PH | Par rapport aux précédentes mesures *(medium, high, mediumlow)* |
+| PH Déviation | Tendance d'évolution du PH | Par rapport aux précédentes mesures *(-0,71)* |
+| PH Valeur | Valeur du PH | Lecture du PH par la sonde *(7.10, 6.92, ...)* |
+| Potentiel Redox | Valeur du Redox | Lecture de la sonde ORP *(572 mV, 730 mV, ...)* |
+| Température | Température | Température du bassin en °C *(14.25 °C, 28.10 °C, ...)* |

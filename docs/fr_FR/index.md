@@ -41,7 +41,7 @@ Les valeurs relevées sont les suivantes (les exemples sont des valeurs observé
 | Désinfectant Déviation | Tendance de l'évolution du traitement | Par rapport à la valeur idéale [calcul][1] *(-0,1)* |
 | Désinfectant Niveau | Niveau de désinfectant du bassin | Ce qui s'affiche dans l'appli *(Bon, Parfait, ...)* |
 | Désinfectant Niveau Déviation | Niveau de la tendance d'évolution du traitement | Non utilisé selon la doc de l'API *(medium, high, low)* |
-| Evolution batterie | Niveau général de batterie | Valeur pas très précise il me semble, passé de 1 à 0.5 chez moi... *(1, 0.5)* |
+| Evolution batterie | Niveau de la batterie | Valeur pas très précise il me semble, passé de 1 à 0.5 chez moi... *(1, 0.5)* |
 | Index UV | Valeur UV mesurée | Index UV mesuré au niveau du Flipr *(0, 7, ...)* |
 | PH Niveau | Niveau du PH dans le bassin | Ce qui s'affiche dans l'appli *(Bon, Parfait, ...)* |
 | PH Niveau Déviation | Niveau de la tendance d'évolution du PH | Non utilisé selon la doc de l'API *(medium, high, mediumlow)* |

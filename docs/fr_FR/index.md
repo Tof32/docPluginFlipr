@@ -8,8 +8,8 @@ Au moment de la rédaction de ce guide, la version Flipr Start sans abonnement n
 ## Configuration
 Pour configurer le plugin il vous faudra :
 - l'identifiant du Flipr
-- l'identifiant de votre compte goflipr.com
-- le mot de passe de votre compte goflipr.com
+- l'identifiant du compte utilisé pour vous connecter à l'appli Flipr
+- le mot de passe du compte utilisé pour vous connecter à l'appli Flipr
 
 Pour l'identifiant du Flipr, vous pouvez le trouver dans le menu de l'application en haut à gauche :
 

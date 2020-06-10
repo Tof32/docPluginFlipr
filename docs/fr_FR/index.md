@@ -26,7 +26,7 @@ Une fois la sauvegarde effectuée, rendez-vous dans le plugin via **Plugins**, *
 
 Définissez le nom que vous voulez donner à votre Flipr, choisissez à quel objet Jeedom vous souhaitez le rattacher et rendez le **Actif** et **Visible**. Enfin, renseignez l'id de votre Flipr trouvé plus haut dans **Paramètres** puis ciquez sur **Sauvegarder**. 
 
-Voter objet est prêt !
+Votre objet est prêt !
 
 ## Utilisation
 Lors de la sauvegarde de l'objet Flipr, une première lecture de ces infos doit avoir lieu. Ensuite les relevés sont effectués toutes les heures.
